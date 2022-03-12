@@ -1,0 +1,10 @@
+variable textapps(all(find.PC))
+
+for.use textapp = notepad
+other - extensions = {
+	notepad++, other
+	atom, other
+	vscode;
+
+	textlanguage = batch-c
+}

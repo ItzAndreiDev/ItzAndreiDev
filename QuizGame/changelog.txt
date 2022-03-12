@@ -1,0 +1,40 @@
+# Changelog
+All changes to this quiz will be documentes in this txt file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+## [1.0.0] - 26.03.2021
+### announcement
+ - New quiz launched (it's pretty dope)
+
+### added
+ - 4 questions
+ - menu
+
+## [1.0.1] - 23.06.2021
+### annoucement
+ - the game has bugs, we will try to solve the problem ASAP
+
+### added 
+ - 4 more questions
+ - made a folder with all the data and the game its self (fnf style, recommend you don't change them)
+ - mods folder (WIP, doesn't work for the moment)
+
+## [1.0.2] - 03.02.2022
+### story-time
+ - forgot about this game, tbh. But I found the folder with the game recently, because I was bored and I wanted
+ to do some coding, so here I am.
+
+### HUGE annoucement
+ - the game will be remade from zero
+ - it will not have bugs anymore, and it will be more fun
+ - will keep the current BATCH-C menu and other functionalities the same
+
+### added (or should i say, deleted)
+ - deleted everything
+
+## [1.0.2 part 2] - 05.02.2022
+### added
+ - new and improved menu
+ - four questions added, currently thinking of more
+ 

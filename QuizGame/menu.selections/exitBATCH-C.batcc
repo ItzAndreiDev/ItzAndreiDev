@@ -1,0 +1,3 @@
+if (menusect = 3) {
+	exit
+}
